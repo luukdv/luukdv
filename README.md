@@ -2,7 +2,7 @@
 
 I'm Luuk de Vlieger, a tall developer from Enschede, The Netherlands.
 
-## Latest project:
+## Latest project
 
 [![Pencilvania](https://pencilvania.stutpak.com/header.jpg)](https://pencilvania.stutpak.com)
 
